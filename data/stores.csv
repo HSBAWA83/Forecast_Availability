@@ -1,0 +1,21 @@
+StoreID,StoreName,Region,Size,FootfallCategory
+S001,MyRet Express 1,North West,Extra,Medium
+S002,MyRet Express 2,Midlands,Extra,Medium
+S003,MyRet Extra 3,Midlands,Superstore,Medium
+S004,MyRet Express 4,Midlands,Express,Medium
+S005,MyRet Express 5,North West,Extra,Medium
+S006,MyRet Express 6,South East,Extra,Medium
+S007,MyRet Superstore 7,North West,Superstore,Medium
+S008,MyRet Superstore 8,South East,Extra,Medium
+S009,MyRet Extra 9,North West,Superstore,Medium
+S010,MyRet Superstore 10,London,Extra,Medium
+S011,MyRet Extra 11,Midlands,Express,Medium
+S012,MyRet Express 12,South East,Express,Medium
+S013,MyRet Superstore 13,South East,Express,Medium
+S014,MyRet Superstore 14,Midlands,Express,Medium
+S015,MyRet Extra 15,Midlands,Extra,Medium
+S016,MyRet Express 16,Midlands,Extra,Medium
+S017,MyRet Extra 17,Midlands,Superstore,Medium
+S018,MyRet Extra 18,North West,Superstore,Medium
+S019,MyRet Superstore 19,South East,Extra,Medium
+S020,MyRet Superstore 20,London,Superstore,Medium
